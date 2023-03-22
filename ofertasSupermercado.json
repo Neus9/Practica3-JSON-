@@ -1,0 +1,315 @@
+{"Lista":[
+{"mercadona":[
+    {
+        "direccion": "Av. Blasco Ibañez, 25",
+        "poblacion":"Valencia",
+        "geolocalizacion": [ 
+            "25º65'45.6 N",
+            "27º85'85.4 E"
+        ],
+        "productos": [
+            {"fruteria": [
+                {
+                    "nombre": "manzana",
+                    "descripcion": "Manzana verde",
+                    "origen": "España",
+                    "informacion": {
+                        "unidades": 5,
+                        "unidadMedida": "kilos",
+                        "peso": 0.5,
+                        "periodoVigencia": "1 semana"
+    
+                    },
+                        "precioProducto": {
+                        "enOferta": "true" ,
+                        "habitualSinOferta": "false",
+                        "precio": 2.5
+                    },
+                    
+                    "adquirido": "false"
+                },
+    
+    
+                {
+                    "nombre": "pera",
+                    "descripcion": "Pera ercolina",
+                    "origen": "España",
+                    "informacion": {
+                        "unidades": 10,
+                        "unidadMedida": "kilos",
+                        "peso": 0.75,
+                        "periodoVigencia": "1 semana"
+                    },
+                        "precioProducto": {
+                        "enOferta": "false" ,
+                        "habitualSinOferta": "false",
+                        "precio": 4.50
+                    },
+                    
+                    "adquirido": "true"
+                }
+    
+            ]},
+            {"carniceria": [
+                {
+                    "nombre": "Lomo de cerdo",
+                    "descripcion": "Lomo de cerdo a trozos",
+                    "origen": "España",
+                    "informacion": {
+                        "unidades": 5,
+                        "unidadMedida": "kilos",
+                        "peso": 0.35,
+                        "periodoVigencia": "3 dias"
+    
+                    },
+                        "precioProducto": {
+                        "enOferta": "false" ,
+                        "habitualSinOferta": "true",
+                        "precio": 3.75
+                    },
+                    
+                    "adquirido": "false"
+                },
+    
+    
+                {
+                    "nombre": "pollo",
+                    "descripcion": "Medio pollo",
+                    "origen": "España",
+                    "informacion": {
+                        "unidades": 1,
+                        "unidadMedida": "kilos",
+                        "peso": 0.8,
+                        "periodoVigencia": "3 dias"
+    
+                    },
+                        "precioProducto": {
+                        "enOferta": "true" ,
+                        "habitualSinOferta": "true",
+                        "precio": 2.5
+                    },
+                    
+                    "adquirido": "false"
+                }
+    
+            ]}   
+        ]
+    }
+  ]
+},
+
+{"Lidl":[
+    {
+        "direccion": "Calle de la Paz, 2",
+        "poblacion":"Valencia",
+        "geolocalizacion": [
+            "28º03'35.8 N",
+            "14º37'96.4 E"   
+        ],
+       "productos": [ 
+
+        {"fruteria": [
+            {
+                "nombre": "Sandia",
+                "descripcion": "Media sandia",
+                "origen": "España",
+                "informacion": {
+                    "unidades": 1,
+                    "unidadMedida": "kilos",
+                    "peso": 2.5,
+                    "periodoVigencia": "2 semanas"
+
+                },
+                    "precioProducto": {
+                    "enOferta": "false" ,
+                    "habitualSinOferta": "true",
+                    "precio": 4.5
+                },
+                
+                "adquirido": "true"
+            },
+
+
+            {
+                "nombre": "kiwi",
+                "descripcion": "Kiwi verde",
+                "origen": "España",
+                "informacion": {
+                    "unidades": 4,
+                    "unidadMedida": "kilos",
+                    "peso": 0.25,
+                    "periodoVigencia": "1 semana"
+
+                },
+                    "precioProducto": {
+                    "enOferta": "false" ,
+                    "habitualSinOferta": "false",
+                    "precio": 4.25
+                },
+                
+                "adquirido": "false"
+            }
+
+        ]},
+        {"carniceria": [
+            {
+                "nombre": "Chuletas de cordero",
+                "descripcion": "Chuletas de cordero",
+                "origen": "España",
+                "informacion": {
+                    "unidades": 5,
+                    "unidadMedida": "kilos",
+                    "peso": 0.25,
+                    "periodoVigencia": "5 dias"
+
+                },
+                "precioProducto": {
+                    "enOferta": "false" ,
+                    "habitualSinOferta": "false",
+                    "precio": 10.50
+                },
+                
+                "adquirido": "false"
+            },
+
+
+            {
+                "nombre": "Costilla",
+                "descripcion": "Costilla de cerdo",
+                "origen": "España",
+                "informacion": {
+                    "unidades": 1,
+                    "unidadMedida": "kilos",
+                    "peso": 0.25,
+                    "periodoVigencia": "5 dias"
+
+                },
+                    "precioProducto": {
+                    "enOferta": "true" ,
+                    "habitualSinOferta": "true",
+                    "precio": 3.5
+                },
+                
+                "adquirido": "true"
+            }
+
+        ]}
+
+       ]
+
+    }
+
+]},
+
+{"Carrefour":[
+    {
+        "direccion": "Calle Mayor, 25",
+        "poblacion":"Valencia",
+        "geolocalizacion": [
+            "38º56'45.8 N",
+            "20º95'20.1 E"
+        ],
+        "productos": [
+            {"fruteria": [
+                {
+                    "nombre": "manzana",
+                    "descripcion": "Manzana verde",
+                    "origen": "España",
+                    "informacion": {
+                        "unidades": 6,
+                        "unidadMedida": "kilos",
+                        "peso": 0.62,
+                        "periodoVigencia": "1 semana"
+    
+                    },
+                    "precioProducto": {
+                        "enOferta": "false" ,
+                        "habitualSinOferta": "false",
+                        "precio": 3.75
+                    },
+                    
+                    "adquirido": "false"
+                },
+    
+    
+                {
+                    "nombre": "kiwi",
+                    "descripcion": "Kiwi verde",
+                    "origen": "España",
+                    "informacion": {
+                        "unidades": 6,
+                        "unidadMedida": "kilos",
+                        "peso": 0.5,
+                        "periodoVigencia": "1 semana"
+    
+                    },
+                        "precioProducto": {
+                        "enOferta": "false" ,
+                        "habitualSinOferta": "false",
+                        "precio": 4.5
+                    },
+                    
+                    "adquirido": "true"
+                }
+    
+            ]},
+            {"carniceria": [
+                {
+                    "nombre": "pollo",
+                    "descripcion": "Medio pollo",
+                    "origen": "España",
+                    "informacion": {
+                        "unidades": 1,
+                        "unidadMedida": "kilos",
+                        "peso": 1.2,
+                        "periodoVigencia": "3 dias"
+    
+                    },
+                        "precioProducto": {
+                        "enOferta": "true" ,
+                        "habitualSinOferta": "true",
+                        "precio": 4.5
+                    },
+                    
+                    "adquirido": "true"
+                },
+    
+    
+                {
+                    "nombre": "Costilla",
+                    "descripcion": "Costilla de cerdo",
+                    "origen": "España",
+                    "informacion": {
+                        "unidades": 1,
+                        "unidadMedida": "kilos",
+                        "peso": 0.5,
+                        "periodoVigencia": "5 dias"
+    
+                    },
+                        "precioProducto": {
+                        "enOferta": "false" ,
+                        "habitualSinOferta": "false",
+                        "precio": 4.75
+                    },
+                 
+            
+                    "adquirido": "false"
+                }
+    
+            ]}
+
+        
+        ]
+
+    }
+]}
+
+]
+}
+
+
+
+
+
+
+

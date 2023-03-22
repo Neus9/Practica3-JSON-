@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Lista>
+<mercadona>
+        <direccion>Av. Blasco Ibañez 25</direccion>
+        <poblacion>Valencia</poblacion>
+        <geolocalizacion>
+            <norte>25º65'45.6</norte>
+            <sur></sur>
+            <este>27º85'85.4</este>
+            <oeste></oeste>
+        </geolocalizacion>
+        <productos>
+            <fruteria>
+                    <nombre>manzana</nombre>
+                    <descripcion>Manzana verde</descripcion>
+                    <origen>España</origen>
+                    <informacion>
+                        <unidades>5</unidades>
+                        <unidadMedida>kilos</unidadMedida>
+                        <peso>0.5</peso>
+                        <periodoVigencia>1 semana</periodoVigencia>
+                    </informacion>
+    
+                    <precioProducto>
+                        <enOferta>true</enOferta>
+                        <habitualSinOferta>false</habitualSinOferta>
+                        <precio>2.5</precio>
+                    </precioProducto>
+                    
+                    <adquirido>false</adquirido>
+            </fruteria>
+    
+            <fruteria>
+                    <nombre>pera</nombre>
+                    <descripcion>Pera ercolina</descripcion>
+                    <origen>España</origen>
+                    <informacion>
+                        <unidades>10</unidades>
+                        <unidadMedida>kilos</unidadMedida>
+                        <peso>0.75</peso>
+                        <periodoVigencia>1 semana</periodoVigencia>
+                    </informacion>
+
+                    <precioProducto>
+                        <enOferta>false</enOferta>
+                        <habitualSinOferta>false</habitualSinOferta>
+                        <precio>4.50</precio>
+                    </precioProducto>
+                    
+                    <adquirido>true</adquirido>
+    
+            </fruteria>
+            <carniceria>
+                    <nombre>Lomo de cerdo</nombre>
+                    <descripcion>Lomo de cerdo a trozos</descripcion>
+                    <origen>España</origen>
+                    <informacion>
+                        <unidades>5</unidades>
+                        <unidadMedida>kilos</unidadMedida>
+                        <peso>0.35</peso>
+                        <periodoVigencia>3 dias</periodoVigencia>
+                    </informacion>
+
+                    <precioProducto>
+                        <enOferta>false</enOferta>
+                        <habitualSinOferta>true</habitualSinOferta>
+                        <precio>3.75</precio>
+                    </precioProducto>
+                    
+                    <adquirido>false</adquirido>
+            </carniceria>
+
+            <carniceria>
+                    <nombre>pollo</nombre>
+                    <descripcion>Medio pollo</descripcion>
+                    <origen>España</origen>
+                    <informacion>
+                        <unidades>1</unidades>
+                        <unidadMedida>kilos</unidadMedida>
+                        <peso>0.8</peso>
+                        <periodoVigencia>3 dias</periodoVigencia>
+                    </informacion>
+
+                    <precioProducto>
+                        <enOferta>true</enOferta>
+                        <habitualSinOferta>true</habitualSinOferta>
+                        <precio>2.5</precio>
+                    </precioProducto>
+                    
+                    <adquirido>false</adquirido>
+            
+            </carniceria>   
+    </productos>
+</mercadona>
+
+<Lidl>
+        <direccion>Calle de la Paz 2</direccion>
+        <poblacion>Valencia</poblacion>
+        <geolocalizacion>
+            <norte>28º03'35.8</norte>
+            <sur></sur>
+            <este>14º37'96.4</este>
+            <oeste></oeste>
+        </geolocalizacion>
+        <productos>
+            <fruteria>
+                    <nombre>sandia</nombre>
+                    <descripcion>Media sandia</descripcion>
+                    <origen>España</origen>
+                    <informacion>
+                        <unidades>1</unidades>
+                        <unidadMedida>kilos</unidadMedida>
+                        <peso>2.5</peso>
+                        <periodoVigencia>2 semanas</periodoVigencia>
+                    </informacion>
+
+                    <precioProducto>
+                        <enOferta>false</enOferta>
+                        <habitualSinOferta>true</habitualSinOferta>
+                        <precio>4.50</precio>
+                    </precioProducto>
+                    
+                    <adquirido>true</adquirido>
+
+            </fruteria>
+    
+            <fruteria>
+                    <nombre>kiwi</nombre>
+                    <descripcion>Kiwi verde</descripcion>
+                    <origen>España</origen>
+                    <informacion>
+                        <unidades>4</unidades>
+                        <unidadMedida>kilos</unidadMedida>
+                        <peso>0.25</peso>
+                        <periodoVigencia>1 semanas</periodoVigencia>
+                    </informacion>
+
+                    <precioProducto>
+                        <enOferta>false</enOferta>
+                        <habitualSinOferta>false</habitualSinOferta>
+                        <precio>4.25</precio>
+                    </precioProducto>
+                    
+                    <adquirido>false</adquirido>
+
+            </fruteria>
+
+            <carniceria>
+                    <nombre>Chuletas de cordero</nombre>
+                    <descripcion>Chuletas de cordero</descripcion>
+                    <origen>España</origen>
+                    <informacion>
+                        <unidades>5</unidades>
+                        <unidadMedida>kilos</unidadMedida>
+                        <peso>0.25</peso>
+                        <periodoVigencia>5 dias</periodoVigencia>
+                    </informacion>
+
+                    <precioProducto>
+                        <enOferta>false</enOferta>
+                        <habitualSinOferta>false</habitualSinOferta>
+                        <precio>10.50</precio>
+                    </precioProducto>
+                    
+                    <adquirido>false</adquirido>
+            </carniceria>
+
+             <carniceria>
+                    <nombre>Costilla</nombre>
+                    <descripcion>Costilla de cerdo</descripcion>
+                    <origen>España</origen>
+                    <informacion>
+                        <unidades>1</unidades>
+                        <unidadMedida>kilos</unidadMedida>
+                        <peso>0.25</peso>
+                        <periodoVigencia>5 dias</periodoVigencia>
+                    </informacion>
+
+                    <precioProducto>
+                        <enOferta>true</enOferta>
+                        <habitualSinOferta>true</habitualSinOferta>
+                        <precio>3.5</precio>
+                    </precioProducto>
+                    
+                    <adquirido>true</adquirido>
+            </carniceria>
+        </productos>
+<Lidl>
+
+<Carrefour>
+        <direccion>Calle Mayor 25</direccion>
+        <poblacion>Valencia</poblacion>
+        <geolocalizacion>
+            <norte>38º56'45.8</norte>
+            <sur></sur>
+            <este>20º95'20.1</este>
+            <oeste></oeste>
+        </geolocalizacion>
+        <productos>
+            <fruteria>
+                    <nombre>manzana</nombre>
+                    <descripcion>Manzana verde</descripcion>
+                    <origen>España</origen>
+                    <informacion>
+                        <unidades>6</unidades>
+                        <unidadMedida>kilos</unidadMedida>
+                        <peso>0.62</peso>
+                        <periodoVigencia>1 semana</periodoVigencia>
+                    </informacion>
+
+                    <precioProducto>
+                        <enOferta>false</enOferta>
+                        <habitualSinOferta>false</habitualSinOferta>
+                        <precio>3.75</precio>
+                    </precioProducto>
+                    
+                    <adquirido>false</adquirido>
+
+            </fruteria>
+
+            <fruteria>
+                    <nombre>kiwi</nombre>
+                    <descripcion>Kiwi verde</descripcion>
+                    <origen>España</origen>
+                    <informacion>
+                        <unidades>6</unidades>
+                        <unidadMedida>kilos</unidadMedida>
+                        <peso>0.5</peso>
+                        <periodoVigencia>1 semana</periodoVigencia>
+                    </informacion>
+
+                    <precioProducto>
+                        <enOferta>false</enOferta>
+                        <habitualSinOferta>false</habitualSinOferta>
+                        <precio>4.5</precio>
+                    </precioProducto>
+                    
+                    <adquirido>true</adquirido>
+
+            </fruteria>
+
+            <carniceria>
+                    <nombre>pollo</nombre>
+                    <descripcion>Medio pollo</descripcion>
+                    <origen>España</origen>
+                    <informacion>
+                        <unidades>1</unidades>
+                        <unidadMedida>kilos</unidadMedida>
+                        <peso>1.2</peso>
+                        <periodoVigencia>3 dias</periodoVigencia>
+                    </informacion>
+
+                    <precioProducto>
+                        <enOferta>true</enOferta>
+                        <habitualSinOferta>true</habitualSinOferta>
+                        <precio>4.5</precio>
+                    </precioProducto>
+                    
+                    <adquirido>true</adquirido>
+            </carniceria>
+            
+            <carniceria>
+                    <nombre>costilla</nombre>
+                    <descripcion>Costilla de cerdo</descripcion>
+                    <origen>España</origen>
+                    <informacion>
+                        <unidades>1</unidades>
+                        <unidadMedida>kilos</unidadMedida>
+                        <peso>0.5</peso>
+                        <periodoVigencia>5 dias</periodoVigencia>
+                    </informacion>
+
+                    <precioProducto>
+                        <enOferta>false</enOferta>
+                        <habitualSinOferta>false</habitualSinOferta>
+                        <precio>4.75</precio>
+                    </precioProducto>
+                    
+                    <adquirido>false</adquirido>
+            </carniceria>
+        </productos>
+</Carrefour>
+</Lista>
+
+
+
+
+
+
+
